@@ -1,0 +1,61 @@
+
+.pt1{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: normal;
+    background-image: url(../img/backgrounds/Frame\ 9.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 80% 100%;
+    border-end-end-radius: 50% 90px;
+    border-end-start-radius: 50% 90px;
+    height: 772px;
+    width: auto;
+    background-color: #ebeff6;
+}
+
+.pt2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 10px black;
+    display: flex;
+    height: 772px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.pt2 div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 50px 20px 50px;
+    padding: 24px 32px 24px 32px;
+    border-radius: 20px;
+    border: solid 1px l#ebeff6;
+    height: 362px;
+    width: 281px;
+    background-color: #ebeff6;
+    font-size: 18px;
+}
+
+.pt3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: first baseline;
+    background: url(../img/backgrounds/imgmustang1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 25% 50%;
+    height: 772px;
+    width: auto;
+    background-color: black;
+    opacity: 95%;
+}

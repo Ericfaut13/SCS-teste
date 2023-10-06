@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    background-color: #ebeff2;
+}
+
+h1{
+    text-align: end;
+    position:absolute;
+    top:1790px;
+    left:960px;
+    margin: 70px;
+    text-indent: 3ch;
+    font-family: Montserrat;
+    color: aliceblue;
+}
+
+h2{
+    font-size: medium;
+    text-align: end;
+    position: absolute;
+    top: 1900px;
+    left: 700px;
+    margin: 70px;
+    text-indent: 3ch;
+    font-family: Montserrat;
+    color: aliceblue;
+}
+
+nav ul,
+nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav a{
+    display: block;
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a{
+    justify-content: center;
+    text-align: end;
+    margin: 10px;
+    text-indent: 3ch;
+    font-family: Montserrat;
+    color: aliceblue;
+}
+
+img{
+    margin-left: 20px;
+    color: #ebeff2;
+    justify-content: baseline;
+    height: 32px;
+    width: 32px;
+    display: flex;
+    margin-top: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo{
+    display: flex;
+    align-items: first baseline;
+}
+
+.user{
+    display: flex;
+    align-items: first baseline;
+}
+
+.menu{
+    display: flex;
+    align-items: first baseline;
+}
+
+.car1{
+    position: relative;
+    top: 110px;
+    left: 0px;
+    height: 361px;
+    width: 281px;
+}
+
+.car2{
+    opacity: 100%;
+    position:relative;
+    top:-80px;
+    left:-230px;
+    height: 100px;
+    width: auto;
+}
+
+.car3{
+    position:relative;
+    top: -80px;
+    left: -230px;
+    height: 73px;
+    width: auto;
+}
+
+.car4{
+    position:relative;
+    top: -120px;
+    left: -270px;
+    height: 160px;
+    width: auto;
+}
